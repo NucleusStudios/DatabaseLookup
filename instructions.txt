@@ -1,0 +1,14 @@
+It is very simple to setup.
+
+1) Open config.php and add your DB info, website address, btc address, and location to 
+db.txt
+2) In PHPmyAdmin, upload database.sql
+3) Open contact.php and change the information to your email.
+
+Your done! Enjoy!
+
+HF Profile:
+http://www.hackforums.net/member.php?action=profile&uid=2227376
+
+XMPP:
+kasual@exploit.im
