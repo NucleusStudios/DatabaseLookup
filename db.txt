@@ -1,0 +1,2 @@
+#Hashes in this format
+UID ALIAS EMAIL HASH PASS
